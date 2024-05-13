@@ -22,6 +22,10 @@ const Menu = props => (
                     <Link to={"/param/02"}>Parâmetros #02</Link>
 
                 </li>
+                <li>
+                    <Link to={"/par"}>link não existe</Link>
+
+                </li>
             </ul>
         </nav>
     </aside>
